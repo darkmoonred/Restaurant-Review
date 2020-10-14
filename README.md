@@ -1,4 +1,5 @@
 <b>Live project here:<b> https://toronto-reviews.herokuapp.com/
+  Feel free to play around!
   <br>
     <br>
     <br>
