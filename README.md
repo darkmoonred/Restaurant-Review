@@ -1,5 +1,5 @@
 <b>Live project here:<b> https://toronto-reviews.herokuapp.com/
-  Feel free to play around! (please allow 3 min for the site to load, and 1 minute for the database to load the restaurants. It is hosted on a free server.)
+  Feel free to play around! (please allow up to 3 min for the site to load, and 1 minute for the database to load the restaurants. It is hosted on a free server.)
   <br>
     <br>
     <br>
